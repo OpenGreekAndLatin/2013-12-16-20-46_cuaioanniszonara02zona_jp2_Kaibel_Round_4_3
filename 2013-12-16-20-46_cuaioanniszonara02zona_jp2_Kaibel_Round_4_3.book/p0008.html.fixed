@@ -1,0 +1,1407 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta value="abbyy" name="ocr-id"></meta>
+    <meta value="lines text" name="ocr-recognized"></meta>
+    <link href="http://heml.mta.ca/Rigaudon/hocr.css" type="text/css" rel="stylesheet"></link>
+    <meta content="application/xhtml+xml; charset=UTF-8" http-equiv="content-type"></meta>
+    <title>ocr</title>
+  </head>
+  <body>
+    <div id="i0008.png" class="ocr_page">
+      
+      
+      <span title="bbox 696 120 1636 168" class="ocr_line">
+        <span data-rigaudon-output="LIB." title="bbox 696 122 801 159" class="ocr_word" id="w_0">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">ΜΒ.</ins>
+          </span>
+        </span>
+        <span data-rigaudon-output="VI." title="bbox 821 122 891 160" class="ocr_word" id="w_1">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">VI.</ins>
+            <del title="nlp 0.90">VI.</del>
+          </span>
+        </span>
+        <span data-rigaudon-output="CAP." title="bbox 921 120 1038 160" class="ocr_word" id="w_2">
+          <span class="alternatives">
+            <ins title="nlp 0.98" class="alt">ΟΑΡ.</ins>
+            <del title="nlp 0.90">ὄαρ.</del>
+          </span>
+        </span>
+        <span data-rigaudon-output="II." title="bbox 1058 121 1114 158" class="ocr_word" id="w_3">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Π.</ins>
+          </span>
+        </span>
+        <span data-rigaudon-output="7" title="bbox 1607 121 1636 168" class="ocr_word" id="w_4">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">7</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 179 225 1685 295" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="ὰδελφῶν" data-lat-original="αδελφών" title="bbox 179 229 418 295" class="ocr_word" id="w_5">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀδελφῶν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="ὰ́γεσθαι" data-lat-original="άγεΰ&amp;αι" title="bbox 453 226 669 294" class="ocr_word" id="w_6">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἄγεσθαι</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γυναίκας" title="bbox 706 237 949 291" class="ocr_word" id="w_7">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γυναῖκας</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="παϊδας" title="bbox 979 229 1164 286" class="ocr_word" id="w_8">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">παῖδας</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="εκ" title="bbox 1201 246 1256 276" class="ocr_word" id="w_9">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐκ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="των" title="bbox 1282 246 1383 278" class="ocr_word" id="w_10">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῶν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τε&amp;νεώ-" title="bbox 1409 225 1633 277" class="ocr_word" id="w_11">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">τεθνεώ-</ins>
+          </span>
+        </span>
+        <span data-rigaudon-output="B" title="bbox 1651 238 1685 274" class="ocr_word" id="w_12">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Β</ins>
+            <del title="nlp 0.90">τεθνεώς</del>
+            <del title="nlp 0.89">τεθνεὼς</del>
+            <del title="nlp 0.88">τεθνειώς</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 183 299 1635 371" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="των" data-lat-original="των" title="bbox 183 328 283 359" class="ocr_word" id="w_13">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῶν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="εχονϋας." title="bbox 323 320 543 371" class="ocr_word" id="w_14">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐχούσας.</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="καϊ" title="bbox 599 303 681 353" class="ocr_word" id="w_15">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τον" title="bbox 710 322 798 353" class="ocr_word" id="w_16">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="Ελεάζαρ" data-lat-original="Ελεάζαρ" title="bbox 838 301 1055 368" class="ocr_word" id="w_17">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Ἐλεάζαρ</ins>
+            <del title="nlp 0.90">Ἐλευθὴρ</del>
+            <del title="nlp 0.89">Ἐλευθήρ</del>
+            <del title="nlp 0.88">Ἐλεῶνα</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δε" title="bbox 1097 306 1151 353" class="ocr_word" id="w_18">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δὲ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="μετͅὰ" data-lat-original="μετά" title="bbox 1186 299 1308 367" class="ocr_word" id="w_19">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μετὰ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μικρόν" title="bbox 1345 322 1524 368" class="ocr_word" id="w_20">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μικρὸν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="έκ-" title="bbox 1554 304 1635 354" class="ocr_word" id="w_21">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐκ-</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 185 375 1635 448" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="βαλών" title="bbox 185 381 354 448" class="ocr_word" id="w_22">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">βαλὼν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Ίηβούν" title="bbox 388 379 583 446" class="ocr_word" id="w_23">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἰησοῦν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άντειβήγαγε" title="bbox 619 376 945 444" class="ocr_word" id="w_24">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀντεισήγαγε</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="τὀν" data-lat-original="τον" title="bbox 983 399 1069 429" class="ocr_word" id="w_25">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τόν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="παΐδα" title="bbox 1106 382 1265 430" class="ocr_word" id="w_26">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">παῖδα</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Σεέ." title="bbox 1291 378 1404 430" class="ocr_word" id="w_27">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Σεέ.</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άνύων" title="bbox 1461 375 1635 431" class="ocr_word" id="w_28">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀνύων</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 186 451 1636 523" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δ'" title="bbox 186 457 234 511" class="ocr_word" id="w_29">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δ’</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="έτος" title="bbox 266 478 370 517" class="ocr_word" id="w_30">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἔτος</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="εν" title="bbox 400 474 455 507" class="ocr_word" id="w_31">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τη" title="bbox 480 476 540 522" class="ocr_word" id="w_32">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῇ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="ἀρχῆ" data-lat-original="αρχή" title="bbox 579 451 706 523" class="ocr_word" id="w_33">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀρχὴ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δέκατον" title="bbox 735 456 945 506" class="ocr_word" id="w_34">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δέκατον</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="κατηγορή&amp;η" title="bbox 982 453 1305 522" class="ocr_word" id="w_35">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κατηγορήθη</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="παρά" title="bbox 1342 451 1478 521" class="ocr_word" id="w_36">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">παρὰ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Καί-" title="bbox 1506 461 1636 507" class="ocr_word" id="w_37">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">Καί—</ins>
+            <del title="nlp 0.90">Καίν’</del>
+            <del title="nlp 0.89">Καλὰ</del>
+            <del title="nlp 0.88">Καλά</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 140 528 1634 601" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δ" title="bbox 140 554 164 584" class="ocr_word" id="w_38">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">Β</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="βαρι" title="bbox 187 552 300 601" class="ocr_word" id="w_39">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">σαρι</ins>
+            <del title="nlp 0.90">σαρῶ</del>
+            <del title="nlp 0.89">σίρι</del>
+            <del title="nlp 0.88">ἔαρι</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="πρὁς" data-lat-original="προς" title="bbox 338 553 459 600" class="ocr_word" id="w_40">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πρὸς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="των" title="bbox 494 553 595 582" class="ocr_word" id="w_41">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῶν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="υπηκόων" title="bbox 622 528 862 596" class="ocr_word" id="w_42">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὑπηκόων</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ως" title="bbox 899 552 965 590" class="ocr_word" id="w_43">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὡς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ώμώς" title="bbox 993 528 1137 597" class="ocr_word" id="w_44">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὠμῶς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="καϊ" title="bbox 1175 533 1259 582" class="ocr_word" id="w_45">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="το" title="bbox 1294 552 1348 582" class="ocr_word" id="w_46">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="όλον" title="bbox 1384 538 1504 584" class="ocr_word" id="w_47">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">Sλον</ins>
+            <del title="nlp 0.90">ἅλον</del>
+            <del title="nlp 0.89">Ἄλον</del>
+            <del title="nlp 0.88">ἕλον</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τυ-" title="bbox 1541 553 1634 583" class="ocr_word" id="w_48">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τυ-</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 182 606 1635 677" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ραννικώς" title="bbox 182 611 428 677" class="ocr_word" id="w_49">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ραννικῶς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="κεχρημἐνος" data-lat-original="κεχρημένος" title="bbox 455 609 754 674" class="ocr_word" id="w_50">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κεχρημένος</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τοΐς" title="bbox 780 618 883 666" class="ocr_word" id="w_51">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοῖς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="πράγμαβιν." title="bbox 905 606 1210 673" class="ocr_word" id="w_52">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πράγμασιν.</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ρ" title="bbox 1259 629 1284 667" class="ocr_word" id="w_53">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὁ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τοίννν" title="bbox 1307 612 1483 659" class="ocr_word" id="w_54">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοίνυν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Καΐ-" title="bbox 1504 614 1635 660" class="ocr_word" id="w_55">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">Καῖ—</ins>
+            <del title="nlp 0.90">Καλὰ</del>
+            <del title="nlp 0.89">Καλά</del>
+            <del title="nlp 0.88">Καλὴ</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 180 682 1636 753" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="6αρ" title="bbox 180 701 274 753" class="ocr_word" id="w_56">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">σαρ</ins>
+            <del title="nlp 0.90">σαρῶ</del>
+            <del title="nlp 0.89">σαὶ</del>
+            <del title="nlp 0.88">σαί</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μετακαλείται" title="bbox 310 691 654 752" class="ocr_word" id="w_57">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μετακαλεῖται</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ταχέως" title="bbox 687 685 873 749" class="ocr_word" id="w_58">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ταχέως</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="αυτόν," title="bbox 910 682 1091 748" class="ocr_word" id="w_59">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτόν,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="κaὶ" data-lat-original="και" title="bbox 1140 706 1223 736" class="ocr_word" id="w_60">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άκροαβάμενος" title="bbox 1260 682 1636 752" class="ocr_word" id="w_61">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀκροασάμενος</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 179 761 1636 827" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="των" title="bbox 179 783 281 813" class="ocr_word" id="w_62">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῶν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="κατηγόρων" title="bbox 326 761 617 827" class="ocr_word" id="w_63">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κατηγόρων</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="κακείνου," title="bbox 662 765 927 825" class="ocr_word" id="w_64">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κἀκείνου,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="εκείνον" title="bbox 977 765 1173 811" class="ocr_word" id="w_65">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐκείνου</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μεν" title="bbox 1218 782 1312 827" class="ocr_word" id="w_66">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μὲν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="φυγαδεῖαν" data-lat-original="φυγαδείαν" title="bbox 1349 766 1636 827" class="ocr_word" id="w_67">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">φυγαδείαν</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 181 834 1367 903" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="καταψηφίζεται," title="bbox 181 843 586 903" class="ocr_word" id="w_68">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καταψηφίζεται,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τα" title="bbox 615 858 674 888" class="ocr_word" id="w_69">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὰ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δε" title="bbox 703 841 759 888" class="ocr_word" id="w_70">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δὲ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="χρήματα" title="bbox 786 834 1009 902" class="ocr_word" id="w_71">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">χρήματα</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άπηνέγκατο." title="bbox 1037 835 1367 902" class="ocr_word" id="w_72">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀπηνέγκατο.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 122 911 1632 982" class="ocr_line">
+        <span data-rigaudon-output="A0" title="bbox 122 931 161 963" class="ocr_word" id="w_73">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">ίο</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Όνείρψ" title="bbox 291 911 496 982" class="ocr_word" id="w_74">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ὀνείρῳ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δε" title="bbox 544 917 600 964" class="ocr_word" id="w_75">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δὲ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="το" title="bbox 645 934 699 965" class="ocr_word" id="w_76">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="μἐλλον" data-lat-original="μέλλον" title="bbox 745 915 928 979" class="ocr_word" id="w_77">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μέλλον</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="έδηλώ&amp;η" title="bbox 976 912 1209 979" class="ocr_word" id="w_78">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐδηλώθη</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τω" title="bbox 1255 931 1323 965" class="ocr_word" id="w_79">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῷ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Άρχελάω." title="bbox 1366 911 1632 981" class="ocr_word" id="w_80">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἀρχελάῳ.</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 183 987 1635 1057" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="έδόκει" title="bbox 183 987 342 1041" class="ocr_word" id="w_81">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐδόκει</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γαρ" title="bbox 379 1008 474 1057" class="ocr_word" id="w_82">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γὰρ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άβτάχυας" title="bbox 511 987 762 1055" class="ocr_word" id="w_83">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀστάχυας</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="όράν" title="bbox 799 987 924 1056" class="ocr_word" id="w_84">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὁρᾶν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δέκα" title="bbox 962 991 1082 1041" class="ocr_word" id="w_85">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δέκα</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ακμαίους" title="bbox 1119 993 1362 1056" class="ocr_word" id="w_86">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀκμαίους</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="και" title="bbox 1400 1011 1483 1041" class="ocr_word" id="w_87">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="πλή-" title="bbox 1512 989 1635 1055" class="ocr_word" id="w_88">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πλή-</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 181 1066 1637 1133" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ρεις" title="bbox 181 1086 284 1133" class="ocr_word" id="w_89">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ρεις</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="βίτον" title="bbox 325 1071 467 1117" class="ocr_word" id="w_90">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">σίτου</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="βιβρωύκομένονς" title="bbox 514 1067 953 1133" class="ocr_word" id="w_91">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">βιβρωσκομένους</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="υπό" title="bbox 998 1067 1097 1118" class="ocr_word" id="w_92">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὑπὸ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="βοών." title="bbox 1141 1071 1291 1131" class="ocr_word" id="w_93">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">βοῶν.</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άλλοι" title="bbox 1356 1066 1497 1118" class="ocr_word" id="w_94">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἄλλοι</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μεν" title="bbox 1543 1089 1637 1133" class="ocr_word" id="w_95">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μὲν</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 180 1143 1635 1209" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="οὐν" data-lat-original="ούν" title="bbox 180 1143 272 1194" class="ocr_word" id="w_96">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οὑν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="ὰ́λλως" data-lat-original="άλλως" title="bbox 300 1149 461 1201" class="ocr_word" id="w_97">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἄλλως</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ε%ηγούντο" title="bbox 499 1145 765 1207" class="ocr_word" id="w_98">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐξηγοῦντο</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τον" title="bbox 792 1163 881 1194" class="ocr_word" id="w_99">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ονειρον" title="bbox 908 1163 1110 1209" class="ocr_word" id="w_100">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὄνειρον</ins>
+          </span>
+        </span>
+        <span data-rigaudon-output="," title="bbox 1122 1183 1135 1208" class="ocr_word" id="w_101">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Σίμων" title="bbox 1173 1148 1352 1208" class="ocr_word" id="w_102">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Σίμων</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δε" title="bbox 1390 1147 1447 1194" class="ocr_word" id="w_103">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δὲ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="το" title="bbox 1473 1161 1528 1195" class="ocr_word" id="w_104">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γέ-" title="bbox 1555 1145 1635 1208" class="ocr_word" id="w_105">
+          <span class="alternatives">
+            <ins title="nlp 0.98" class="alt">γἐ-</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 181 1217 1633 1287" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="νος" title="bbox 181 1240 267 1278" class="ocr_word" id="w_106">
+          <span class="alternatives">
+            <ins title="nlp 0.99" class="alt">γένος</ins>
+            <del title="nlp 0.90">νος</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="Εσσαῖος" data-lat-original="Εΰΰαΐος" title="bbox 296 1226 513 1278" class="ocr_word" id="w_107">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Ἐσσαῖος</ins>
+            <del title="nlp 0.90">Νισσαῖος</del>
+            <del title="nlp 0.89">Νησαῖος</del>
+            <del title="nlp 0.88">Νισαῖος</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μεταβολήν" title="bbox 534 1217 818 1284" class="ocr_word" id="w_108">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μεταβολὴν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="πραγμάτων" title="bbox 838 1218 1145 1285" class="ocr_word" id="w_109">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πραγμάτων</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="έλεγε" title="bbox 1168 1225 1307 1285" class="ocr_word" id="w_110">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἔλεγε</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="φέρειν" title="bbox 1327 1221 1503 1286" class="ocr_word" id="w_111">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">φέρειν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Άρ-" title="bbox 1524 1217 1633 1287" class="ocr_word" id="w_112">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">Ἀρ-</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 120 1292 1684 1364" class="ocr_line">
+        <span data-rigaudon-output="15" title="bbox 120 1313 161 1343" class="ocr_word" id="w_113">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">15</ins>
+            <del title="nlp 0.90">Ἀραὶ</del>
+            <del title="nlp 0.89">Ἀραί</del>
+            <del title="nlp 0.88">Ἀργὲ</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="χελάω" title="bbox 181 1292 342 1361" class="ocr_word" id="w_114">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">χελάῳ</ins>
+            <del title="nlp 0.90">ἀρχελάῳ</del>
+            <del title="nlp 0.89">Ἀρχελάῳ</del>
+            <del title="nlp 0.88">χελεῦ</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="την" title="bbox 370 1314 463 1359" class="ocr_word" id="w_115">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὴν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="ὸ́ψιν," data-lat-original="όψιν," title="bbox 489 1292 625 1359" class="ocr_word" id="w_116">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὄψιν,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ου" title="bbox 654 1315 715 1346" class="ocr_word" id="w_117">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οὐ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μέντοι" title="bbox 742 1296 911 1360" class="ocr_word" id="w_118">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μέντοι</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="έπ'" title="bbox 934 1293 1012 1346" class="ocr_word" id="w_119">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐπ’</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άγα&amp;ω." title="bbox 1039 1294 1230 1361" class="ocr_word" id="w_120">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀγαθῷ.</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τους" title="bbox 1280 1316 1396 1356" class="ocr_word" id="w_121">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοὺς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μεν" title="bbox 1423 1318 1515 1361" class="ocr_word" id="w_122">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μὲν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γαρ" title="bbox 1535 1317 1630 1364" class="ocr_word" id="w_123">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γὰρ</ins>
+          </span>
+        </span>
+        <span data-rigaudon-output="C" title="bbox 1653 1303 1684 1341" class="ocr_word" id="w_124">
+          <span class="alternatives">
+            <ins title="nlp 0.98" class="alt">Ο</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 178 1368 1636 1439" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="βόας" title="bbox 178 1368 299 1435" class="ocr_word" id="w_125">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">βόας</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="κακοπα&amp;είας" title="bbox 335 1375 674 1431" class="ocr_word" id="w_126">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κακοπαθείας</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="βύμβολον" title="bbox 714 1369 970 1436" class="ocr_word" id="w_127">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">σύμβολον</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="είναι," title="bbox 1007 1379 1163 1437" class="ocr_word" id="w_128">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">εἶναι,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ζώα" title="bbox 1212 1376 1312 1433" class="ocr_word" id="w_129">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ζῷα</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="ἐπ" data-lat-original="έπ" title="bbox 1350 1374 1411 1423" class="ocr_word" id="w_130">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐπ’</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="'έργοις" title="bbox 1474 1377 1636 1439" class="ocr_word" id="w_131">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἔργοις</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 178 1444 1635 1516" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ταλαιπωρούμενα" title="bbox 178 1444 627 1513" class="ocr_word" id="w_132">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ταλαιπωρούμενα</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="καϊ" title="bbox 672 1448 755 1498" class="ocr_word" id="w_133">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δηλωτικά" title="bbox 794 1445 1040 1512" class="ocr_word" id="w_134">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δηλωτικὰ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="πραγμάτων" title="bbox 1080 1446 1386 1516" class="ocr_word" id="w_135">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πραγμάτων</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μεταβο-" title="bbox 1426 1451 1635 1514" class="ocr_word" id="w_136">
+          <span class="alternatives">
+            <ins title="nlp 0.98" class="alt">μεταβο-</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 179 1524 1636 1590" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="λής" title="bbox 179 1528 268 1587" class="ocr_word" id="w_137">
+          <span class="alternatives">
+            <ins title="nlp 0.99" class="alt">μεταβολῆς</ins>
+            <del title="nlp 0.90">λὴς</del>
+          </span>
+        </span>
+        <span data-rigaudon-output="Sτι" title="bbox 294 1542 370 1573" class="ocr_word" id="w_138">
+          <span class="alternatives">
+            <ins title="nlp 0.99" class="alt">ὅτι</ins>
+            <del title="nlp 0.90">οτι</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="δι" data-lat-original="δι" title="bbox 409 1526 458 1573" class="ocr_word" id="w_139">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δι’</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="αυτών" title="bbox 508 1525 674 1574" class="ocr_word" id="w_140">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῶν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="αρουμένη" title="bbox 701 1524 955 1590" class="ocr_word" id="w_141">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀρουμένη</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="η" title="bbox 991 1546 1021 1589" class="ocr_word" id="w_142">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἡ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γη" title="bbox 1060 1546 1121 1590" class="ocr_word" id="w_143">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γῆ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ουκ" title="bbox 1158 1545 1252 1576" class="ocr_word" id="w_144">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οὐκ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="ἐὰται" data-lat-original="έάται" title="bbox 1292 1526 1429 1575" class="ocr_word" id="w_145">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐᾶται</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μένειν" title="bbox 1463 1525 1636 1590" class="ocr_word" id="w_146">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μένειν</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 179 1598 1637 1667" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ακίνητος," title="bbox 179 1602 438 1663" class="ocr_word" id="w_147">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀκίνητος,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τους" title="bbox 493 1619 608 1658" class="ocr_word" id="w_148">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοὺς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δε" title="bbox 657 1603 713 1650" class="ocr_word" id="w_149">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δὲ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δέκα" title="bbox 766 1600 888 1650" class="ocr_word" id="w_150">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δέκα</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="στάχυaς" data-lat-original="βτάχυας" title="bbox 935 1598 1150 1666" class="ocr_word" id="w_151">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">στάχυας</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ΰημαίνειν" title="bbox 1198 1605 1462 1667" class="ocr_word" id="w_152">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">σημαίνειν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="έτῶν" data-lat-original="ετών" title="bbox 1511 1603 1637 1654" class="ocr_word" id="w_153">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐτῶν</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 119 1672 1637 1744" class="ocr_line">
+        <span data-rigaudon-output="20" title="bbox 119 1693 161 1722" class="ocr_word" id="w_154">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">20</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="αρι&amp;μόν" title="bbox 182 1672 401 1741" class="ocr_word" id="w_155">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀριθμόν</ins>
+          </span>
+        </span>
+        <span data-rigaudon-output="·" title="bbox 415 1689 423 1696" class="ocr_word" id="w_156">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">’</ins>
+            <del title="nlp 0.90">’</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="περιόδω" title="bbox 454 1673 672 1741" class="ocr_word" id="w_157">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">περιόδῳ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γαρ" title="bbox 701 1696 796 1742" class="ocr_word" id="w_158">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γὰρ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ενιαυτοϋ" title="bbox 826 1680 1059 1727" class="ocr_word" id="w_159">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐνιαυτοῦ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="πληρούμαι" title="bbox 1087 1683 1408 1744" class="ocr_word" id="w_160">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πληροῦσθαι</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τούτους" title="bbox 1426 1676 1637 1738" class="ocr_word" id="w_161">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τούτους</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 179 1751 1636 1822" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="καϊ" title="bbox 179 1751 264 1801" class="ocr_word" id="w_162">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="απαρτίζεσαι" title="bbox 291 1755 654 1817" class="ocr_word" id="w_163">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀπαρτίζεσθαι</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="θἐρος" data-lat-original="%•έρος" title="bbox 680 1753 831 1818" class="ocr_word" id="w_164">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">θέρος</ins>
+          </span>
+        </span>
+        <span data-rigaudon-output="," title="bbox 847 1792 861 1816" class="ocr_word" id="w_165">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="και" title="bbox 897 1773 981 1804" class="ocr_word" id="w_166">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="τὁν" data-lat-original="τον" title="bbox 1010 1774 1098 1804" class="ocr_word" id="w_167">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="της" title="bbox 1124 1775 1211 1819" class="ocr_word" id="w_168">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῆς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="ἡγεμονὶας" data-lat-original="ηγεμονίας" title="bbox 1233 1758 1501 1820" class="ocr_word" id="w_169">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἡγεμονίας</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="χρό-" title="bbox 1522 1753 1636 1822" class="ocr_word" id="w_170">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">χρό-</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 182 1824 871 1894" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="νον" title="bbox 182 1846 271 1877" class="ocr_word" id="w_171">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">νον</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ε%ηκειν" title="bbox 300 1828 491 1891" class="ocr_word" id="w_172">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐξήκειν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τω" title="bbox 516 1847 585 1878" class="ocr_word" id="w_173">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῷ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="'Αρχελάω." title="bbox 609 1824 871 1894" class="ocr_word" id="w_174">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἀρχελάῳ.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 296 1902 1638 1974" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Καϊ" title="bbox 296 1903 398 1953" class="ocr_word" id="w_175">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τ\ι" title="bbox 425 1923 483 1968" class="ocr_word" id="w_176">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῇ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γυναικι" title="bbox 512 1924 716 1967" class="ocr_word" id="w_177">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γυναικὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δε" title="bbox 745 1908 799 1955" class="ocr_word" id="w_178">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δὲ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="του" title="bbox 826 1924 915 1955" class="ocr_word" id="w_179">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοῦ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Αρχελάου" title="bbox 939 1902 1209 1972" class="ocr_word" id="w_180">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἀρχελάου</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="Γλαφύρᾳ" data-lat-original="Γλαφυρά" title="bbox 1230 1912 1480 1974" class="ocr_word" id="w_181">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Γλαφυρᾷ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="όνει-" title="bbox 1506 1904 1638 1959" class="ocr_word" id="w_182">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὄνει-</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 183 1979 1638 2048" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ρος" title="bbox 183 1997 268 2043" class="ocr_word" id="w_183">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ρος</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τε&amp;έαται" title="bbox 295 1979 530 2029" class="ocr_word" id="w_184">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τεθέαται</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="έτερος," title="bbox 558 2000 734 2046" class="ocr_word" id="w_185">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">ἴτερος.</ins>
+            <del title="nlp 0.90">ἴκτερος.</del>
+            <del title="nlp 0.89">ἅτερος.</del>
+            <del title="nlp 0.88">ἕτερος.</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="αὔτη" data-lat-original="αυτή" title="bbox 791 2002 918 2045" class="ocr_word" id="w_186">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὕτη</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γάρ," title="bbox 945 1980 1058 2048" class="ocr_word" id="w_187">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γάρ,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ως" title="bbox 1089 2004 1156 2042" class="ocr_word" id="w_188">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὡς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ιβτόρηται," title="bbox 1186 1980 1465 2048" class="ocr_word" id="w_189">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἱστόρηται,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Άλε-" title="bbox 1499 1979 1638 2034" class="ocr_word" id="w_190">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">Ἀλε-</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 120 2051 1791 2124" class="ocr_line">
+        <span data-rigaudon-output="25" title="bbox 120 2072 161 2101" class="ocr_word" id="w_191">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">25</ins>
+            <del title="nlp 0.90">Ἀλεοῦ</del>
+            <del title="nlp 0.89">Ἀλεὲ</del>
+            <del title="nlp 0.88">Ἀλεέ</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ζάνδρω" title="bbox 182 2051 379 2120" class="ocr_word" id="w_192">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">ξάνδρῳ</ins>
+            <del title="nlp 0.90">Εὐάνδρῳ</del>
+            <del title="nlp 0.89">εὐάνδρῳ</del>
+            <del title="nlp 0.88">νεάνδρῳ</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="πρότερον" title="bbox 402 2053 646 2121" class="ocr_word" id="w_193">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πρότερον</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="βννωκει" title="bbox 666 2071 883 2107" class="ocr_word" id="w_194">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">συνῴκει</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Αρχελάου" title="bbox 907 2053 1173 2124" class="ocr_word" id="w_195">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἀρχελάου</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="όμαίμονι'" title="bbox 1194 2054 1453 2124" class="ocr_word" id="w_196">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὁμαίμονι·</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άναι-νΐΙ189" title="bbox 1483 2055 1791 2110" class="ocr_word" id="w_197">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">ἀναι-WI189</ins>
+            <del title="nlp 0.90">ἀναιδεῖ</del>
+            <del title="nlp 0.89">ἀναιδὲς</del>
+            <del title="nlp 0.88">ἀναιδέα</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 182 2130 1637 2201" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ρε&amp;έντος" title="bbox 182 2130 416 2197" class="ocr_word" id="w_198">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">ρεθέντος</ins>
+            <del title="nlp 0.90">δεθέντος</del>
+            <del title="nlp 0.89">μεθέντος</del>
+            <del title="nlp 0.88">τεθέντος</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δ" title="bbox 456 2135 486 2181" class="ocr_word" id="w_199">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">δ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="εκείνου" title="bbox 543 2136 737 2183" class="ocr_word" id="w_200">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐκείνου</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Ίόβα" title="bbox 767 2131 897 2196" class="ocr_word" id="w_201">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἰόβᾳ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τω" title="bbox 924 2154 992 2184" class="ocr_word" id="w_202">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῷ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Λιβύων" title="bbox 1021 2132 1229 2199" class="ocr_word" id="w_203">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Λιβύων</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γεγάμητο" title="bbox 1265 2133 1512 2201" class="ocr_word" id="w_204">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γεγάμητο</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="βα-" title="bbox 1546 2140 1637 2200" class="ocr_word" id="w_205">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">βα-</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 182 2205 1686 2279" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ΰιλεΐ'" title="bbox 182 2211 332 2257" class="ocr_word" id="w_206">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">σιλεῖ·</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="κάκείνον" title="bbox 363 2205 599 2259" class="ocr_word" id="w_207">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κἀκείνου</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="δε" title="bbox 631 2212 685 2259" class="ocr_word" id="w_208">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δὲ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="την" title="bbox 705 2230 798 2273" class="ocr_word" id="w_209">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὴν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ζωήν" title="bbox 820 2208 949 2275" class="ocr_word" id="w_210">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ζωὴν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="μεταλλάξaντος" data-lat-original="μεταλλάζαντος" title="bbox 968 2208 1361 2275" class="ocr_word" id="w_211">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μεταλλάξαντος</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ΆρχελάωΌ" title="bbox 1385 2208 1686 2279" class="ocr_word" id="w_212">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">ἈρχελάῳD</ins>
+            <del title="nlp 0.90">Ἀρχελάῳ</del>
+            <del title="nlp 0.89">ἀρχελάῳ</del>
+            <del title="nlp 0.88">Ἀρχελάωι</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 181 2282 1637 2354" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γίνεται" title="bbox 181 2286 371 2346" class="ocr_word" id="w_213">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γίνεται</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="την" title="bbox 405 2304 497 2349" class="ocr_word" id="w_214">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὴν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="6υνοικον6αν" title="bbox 531 2300 869 2336" class="ocr_word" id="w_215">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">συνοικοῦσαν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="αύτω" title="bbox 909 2282 1045 2337" class="ocr_word" id="w_216">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῷ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Μαριάμ" title="bbox 1082 2282 1296 2353" class="ocr_word" id="w_217">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Μαριὰμ</ins>
+            <del title="nlp 0.90">Μαρικᾶ</del>
+            <del title="nlp 0.89">Μαρικᾷ</del>
+            <del title="nlp 0.88">Μαριὸς</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άποπεμψα-" title="bbox 1331 2286 1637 2354" class="ocr_word" id="w_218">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀποπεμψα-</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 180 2358 1635 2431" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μένω," title="bbox 180 2358 342 2424" class="ocr_word" id="w_219">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μένῳ,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="και" title="bbox 395 2380 481 2411" class="ocr_word" id="w_220">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ταύτα" title="bbox 525 2363 681 2412" class="ocr_word" id="w_221">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ταῦτα</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="πaῖδας" data-lat-original="παιδας" title="bbox 729 2366 914 2421" class="ocr_word" id="w_222">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">παῖδας</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="έξ" data-lat-original="ί|" title="bbox 962 2365 1009 2423" class="ocr_word" id="w_223">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐξ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="Αλεξάνδρου" title="bbox 1059 2360 1390 2430" class="ocr_word" id="w_224">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἀλεξάνδρου</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="εχουβα." title="bbox 1438 2382 1635 2431" class="ocr_word" id="w_225">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἔχουσα.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 123 2437 1638 2508" class="ocr_line">
+        <span data-rigaudon-output="Βo" title="bbox 123 2451 163 2481" class="ocr_word" id="w_226">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">3ο</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="εδοκει" title="bbox 187 2438 345 2486" class="ocr_word" id="w_227">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐδόκει</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γονν" title="bbox 372 2457 497 2501" class="ocr_word" id="w_228">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γοῦν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="η" title="bbox 524 2458 554 2502" class="ocr_word" id="w_229">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἡ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="γυνή" title="bbox 582 2437 712 2503" class="ocr_word" id="w_230">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γυνὴ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τον" title="bbox 742 2460 826 2490" class="ocr_word" id="w_231">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="Αλέξανδρον" data-lat-original="Αλέζανδρον" title="bbox 857 2439 1179 2506" class="ocr_word" id="w_232">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἀλέξανδρον</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="αύτη" title="bbox 1206 2437 1335 2508" class="ocr_word" id="w_233">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῇ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="έπιβτάντα" title="bbox 1367 2439 1638 2493" class="ocr_word" id="w_234">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐπιστάντα</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 184 2512 1638 2585" class="ocr_line">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="μεμφεΰ&amp;αί" title="bbox 184 2517 476 2575" class="ocr_word" id="w_235">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μέμφεσθαί</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τε" title="bbox 498 2533 552 2564" class="ocr_word" id="w_236">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τε</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="αὐτᾒ" data-lat-original="αύτη" title="bbox 580 2512 705 2582" class="ocr_word" id="w_237">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῇ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="καϊ" title="bbox 734 2516 818 2566" class="ocr_word" id="w_238">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="λέγειν" title="bbox 845 2516 1011 2580" class="ocr_word" id="w_239">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">λέγειν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="&quot;Γλαφυρά," title="bbox 1033 2513 1332 2585" class="ocr_word" id="w_240">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">‘‘Γλαφύρα,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άλη&amp;εύειν" title="bbox 1361 2514 1638 2584" class="ocr_word" id="w_241">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀληθεύειν</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 185 2589 1641 2662" class="ocr_line" id="w_250">
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="αρα" title="bbox 185 2606 281 2652" class="ocr_word" id="w_242">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἄρα</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τον" title="bbox 306 2607 392 2638" class="ocr_word" id="w_243">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="λυ^ον" title="bbox 419 2595 567 2655" class="ocr_word" id="w_244">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">λόγον</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="απέδειζας" title="bbox 602 2593 864 2653" class="ocr_word" id="w_245">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀπέδειξας</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="ός" title="bbox 901 2589 955 2652" class="ocr_word" id="w_246">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὃς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="άπίΰτονς" title="bbox 991 2591 1231 2654" class="ocr_word" id="w_247">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀπίστους</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="είναι" title="bbox 1264 2592 1394 2646" class="ocr_word" id="w_248">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">εἶναι</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-pre-spellcheck="" data-lat-original="τάς" title="bbox 1431 2593 1517 2655" class="ocr_word" id="w_249">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὰς</ins>
+          </span>
+        </span>
+        <span id="w_250" class="ocr_word" title="bbox 1543 2616 1641 2662"><span class="alternatives"><ins title="nlp 0.93" class="alt">γυ-</ins></span></span>
+      </span>
+      
+      
+    </div>
+  </body>
+</html>
